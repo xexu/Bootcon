@@ -47,4 +47,4 @@ You can even unwrap your icon and use the white version!
 
 License
 -------
-Helper created by Christian Córdoba. 
+Helper created by Christian Córdoba. Did I forget to say you can do with this whatever you want?
